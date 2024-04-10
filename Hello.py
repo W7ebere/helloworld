@@ -1,0 +1,7 @@
+print("Hi")
+print("Hello")
+print("World")
+print("I am a program")
+print("I'm a program")
+print("I'm a program")
+print("I'm a program")
